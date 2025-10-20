@@ -41,6 +41,7 @@ dependencies:
   riverpod_annotation: ^2.3.3
   functional_widget_annotation: ^0.10.0
   functional_widget: ^0.10.2
+  firebase_core: ^4.2.0
 
 dev_dependencies:
   flutter_test:
